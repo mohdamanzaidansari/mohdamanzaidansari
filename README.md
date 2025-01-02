@@ -72,7 +72,7 @@ Aligarh Muslim University (CGPA: 8.4/10.0)
 
 ## 🔗 Let's Connect  
 
-- **LinkedIn**: [Mohammad Aman Zaid]([https://www.linkedin.com/in/mohdamanzaid07](https://www.linkedin.com/in/aman-zaid-02a293176/))  
+- **LinkedIn**: [Mohammad Aman Zaid](https://www.linkedin.com/in/aman-zaid-02a293176/)
 - **GitHub**: [mohdamanzaidansari](https://github.com/mohdamanzaidansari)  
 - **LeetCode**: [mohdamanzaid07](https://leetcode.com/u/mohdamanzaid07/)  
 - **Email**: [mohdamanzaid07@gmail.com](mailto:mohdamanzaid07@gmail.com)  
